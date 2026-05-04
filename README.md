@@ -48,12 +48,16 @@ Random Forest - A robust model And reduces over-fitting.
 <img width="295" height="303" alt="image" src="https://github.com/user-attachments/assets/4bf97714-f442-4df8-b96c-6cbbf0e4ee5e" />
 
 
-**ROC-
+**ROC-AUC**
 
 <img width="416" height="286" alt="image" src="https://github.com/user-attachments/assets/7ea85932-f8e9-42fe-8ada-3696a45fb50b" />
 
+**Model Performance Comparison**
 
-<img width="416" height="286" alt="image" src="https://github.com/user-attachments/assets/be16e353-fadc-4ccf-8c51-ec6391515a4d" />
+<img width="416" height="255" alt="image" src="https://github.com/user-attachments/assets/941ab8c5-cf53-40d0-8e0b-d3f168a68ff0" />
+
+
+
 
 **Recommendations**
 
