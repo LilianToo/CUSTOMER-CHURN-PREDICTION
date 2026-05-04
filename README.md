@@ -61,15 +61,21 @@ Random Forest - A robust model And reduces over-fitting.
 
 **Recommendations**
 
-Feature Engineering: creation of new variables or combining the existing to improve prediction accuracy.
-Hyperparameter Tuning : Use of optimization techniques  to fine tune model settings.
-Feature Importance: Random Forest shows strong performance and clear interpretability. Key drivers -for example Customer service calls and International plan should be priorized in retention strategies.
-Customer Retention Strategies: Direct interventions toward high-risk customers identified by all models.I.e service calls.
+- Feature Engineering: creation of new variables or combining the existing to improve prediction accuracy.
+
+- Hyperparameter Tuning : Use of optimization techniques  to fine tune model settings.
+- 
+-Feature Importance: Random Forest shows strong performance and clear interpretability. Key drivers -for example Customer service calls and International plan should be prioritized in retention strategies.
+
+- Customer Retention Strategies: Direct interventions toward high-risk customers identified by all models.I.e service calls.
 
 **Next Steps**
 
-Expand the data-set to include demographics, tenure, service quality metrics
-Balance churn vs non-churn data for non biased predictions.
-Monitor model performance regularly
-Scale deployment across regions.
+- Expand the data-set to include demographics, tenure, service quality metrics
+  
+- Balance churn vs non-churn data for non biased predictions.
+
+- Monitor model performance regularly
+- 
+- Scale deployment across regions.
 
